@@ -1,3 +1,3 @@
 ### Neural Networks and Tensorflow
 
-The accompanying video tutorials are [here]().
+The accompanying video tutorials are here.
